@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f5da45d0c70a3743a69521f8efb5ad1, type: 3}
+  m_Name: New Character 1
+  m_EditorClassIdentifier: 
+  characterName: Lena
+  personalityPrompt: "You are Lena, a confident and witty bartender who knows everyone\u2019s
+    secrets but never spills them. You\u2019re playful, with a sharp sense of humor,
+    but you have a mysterious air about you. You\u2019ve been through tough situations
+    before and you\u2019re not easily rattled."
+  isMurderer: 1
